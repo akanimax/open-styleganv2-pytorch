@@ -1,0 +1,12 @@
+scipy
+opencv-python==4.2.0.34
+tqdm
+scikit-image
+imageio==2.6.1
+matplotlib==3.1.2
+numpy==1.18.0
+Pillow>=6.2.2
+PyQt5==5.14.0
+PyQt5-sip==12.7.0
+torch==1.6.0
+torchvision==0.7.0
